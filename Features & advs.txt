@@ -1,0 +1,12 @@
+1. JSX => 
+    Produces react elements, 
+    represents objects => React.createElement(),
+    can take variables, functions,
+    can change according to logic
+
+
+
+
+ADVANTAGES
+1. Prevents injections (XSS attacks)
+2. Updates only what's necessary, not the whole element or component
